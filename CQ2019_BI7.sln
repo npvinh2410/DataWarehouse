@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "CQ2019_BI7", "CQ2019_BI7\CQ2019_BI7.dtproj", "{ADF75B7E-1E08-4AD3-9F70-3DE443E099C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADF75B7E-1E08-4AD3-9F70-3DE443E099C1}.Development|Default.ActiveCfg = Development
+		{ADF75B7E-1E08-4AD3-9F70-3DE443E099C1}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8132DFA4-5A55-49C3-8765-C49EA38AE2C1}
+	EndGlobalSection
+EndGlobal
